@@ -1,0 +1,1 @@
+seq 10 | shuf | paste - -s -d ' '

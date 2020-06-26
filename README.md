@@ -1,5 +1,3 @@
-readme.md
-
 This short readme file explains how to run the CLI application that prints the numbers from 1 to 10 in a random order to the terminal.
 
 Files included with this project:

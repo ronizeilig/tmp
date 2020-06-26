@@ -1,8 +1,8 @@
-readme.txt
+readme.md
 
-How to Run the CLI application that prints the numbers from 1 to 10 in random order to the terminal.
+This shore readme file explains how to Run the CLI application that prints the numbers from 1 to 10 in a random order to the terminal.
 
-Files Includes with This Project:
+Files Included with this project:
 	RandomPrint.sh
 	
 This CLI application is written inside the included file named- "RandomPrint.sh"
